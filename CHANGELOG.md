@@ -1,3 +1,29 @@
+# 2.8.4-alpha (2020-05-25)
+
+### Perfect
+
+- **uuid:** Use uuid to produce unique id.
+
+# 2.8.3-alpha (2020-05-06)
+
+### Perfect
+
+- **activeRingChart:** add `showOriginValue` configuration.
+- **capsuleChart:** add `showValue` configuration.
+
+# 2.8.2-alpha (2020-05-06)
+
+### Perfect
+
+- **borderBox8:** add `reverse` configuration.
+
+# 2.8.1-alpha (2020-05-03)
+
+### Perfect
+
+- **digitalFlop:** Use `\n` to start a newline.
+- **digitalFlop:** `rowGap` configuration.
+
 # 2.7.4-alpha (2020-04-15)
 
 ### Bug Fixes
